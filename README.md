@@ -1,5 +1,5 @@
 # deploy
-Deployment script for folding@home. Linux only obvs.
+Deployment script for folding@home. Linux only since windows is Pepega.
 
 # installation
-download the appropiate bash script for your linux distribution(s). run the script and folding@home will be installed on your computer.
+This script works on most linux distros. Run the script and folding@home will be automatically installed on your computer.
